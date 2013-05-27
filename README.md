@@ -1,17 +1,17 @@
 CRAWLER
 =======
 
-#To Install:
+To Install:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
-#Try:
+Try:
 
     python test_scraper.py fao lis 1-12-2013 12-12-2013
 
 
-#Except:
+Except:
 
     Because it's just a proof of concept it has a few issues:
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
     When there are no results nothing happends
 
 
-#Finally:
+Finally:
 
     The results will be writen in file results.txt
 
